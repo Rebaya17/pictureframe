@@ -1,0 +1,13 @@
+# Visual Studio Code
+.vscode/
+.settings/
+.project
+.classpath
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# Maven
+target/
+src/test/
